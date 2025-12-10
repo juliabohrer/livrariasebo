@@ -20,11 +20,8 @@ Para uma visão estratégica e resumida do projeto, consulte o Canvas:
 
 **[Link para visualização do Canvas do Projeto](https://canvas-apps.pr.sebrae.com.br/canvas?id=1568516)**
 
-![Parte 1 do Canvas](/public/img/cavas.png)
-
-![Parte 2 do Canvas](/public/img/canvas2.png)
-
----
+![Imagem](./img/cavas.png)
+![Imagem](./img/canvas2.png)
 
 ---
 
