@@ -1,3 +1,5 @@
+> **Equipe desenvolvedora: Ana Laura Quinot, Gabriéli Barcelos, Heloisa Ribeiro e Julia Bohrer**
+
 ##  Principais Recursos e Funcionalidades
 
 ### 1. Requisitos Funcionais

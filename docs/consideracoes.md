@@ -1,3 +1,5 @@
+> **Equipe desenvolvedora: Ana Laura Quinot, Gabriéli Barcelos, Heloisa Ribeiro e Julia Bohrer**
+
 ## Considerações Finais
 
 Este documento de visão fornece uma visão geral completa e estruturada do projeto **Sebo Digital (Sebo Eclipse)**. Ele descreve a finalidade, os principais _stakeholders_, os requisitos principais (Funcionais e Não Funcionais), os modelos de design (Diagramas de Caso de Uso e Classes), os Protótipos de Telas, o Cronograma, os Riscos e o Orçamento.

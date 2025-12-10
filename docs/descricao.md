@@ -1,3 +1,5 @@
+> **Equipe desenvolvedora: Ana Laura Quinot, Gabriéli Barcelos, Heloisa Ribeiro e Julia Bohrer**
+
 ## Descrição do Projeto
 
 ### Visão Geral do Projeto
@@ -20,8 +22,8 @@ Para uma visão estratégica e resumida do projeto, consulte o Canvas:
 
 **[Link para visualização do Canvas do Projeto](https://canvas-apps.pr.sebrae.com.br/canvas?id=1568516)**
 
-![Imagem](./img/cavas.png)
-![Imagem](./img/canvas2.png)
+![Imagem](/img/canvas1.png)
+![Imagem](/img/canvas2.png)
 
 ---
 

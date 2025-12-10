@@ -1,3 +1,5 @@
+> **Equipe desenvolvedora: Ana Laura Quinot, Gabriéli Barcelos, Heloisa Ribeiro e Julia Bohrer**
+
 ## Protótipos de Telas
 
 Esta seção apresenta o design visual proposto para a plataforma Sebo Digital, conforme definido no Figma. Os protótipos ilustram a interface de usuário (UI) e a experiência de usuário (UX) para os principais fluxos, como busca de livros, carrinho de compras e o painel administrativo.

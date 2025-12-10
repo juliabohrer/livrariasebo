@@ -1,3 +1,5 @@
+> **Equipe desenvolvedora: Ana Laura Quinot, Gabriéli Barcelos, Heloisa Ribeiro e Julia Bohrer**
+
 ## Custos e Orçamento 💰
 
 A tabela a seguir apresenta a estimativa inicial de custos para o desenvolvimento, implantação e operação do Sebo Digital durante o primeiro ano.

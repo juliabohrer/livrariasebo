@@ -28,11 +28,12 @@ hero:
       text: Cronograma
       link: /cronograma
     - theme: brand
-      text: Considerações Finais
-      link: /consideracoes
-    - theme: alt
       text: Riscos
       link: /riscos
+    - theme: brand
+      text: Considerações Finais
+      link: /consideracoes
+   
 
 features:
   - title: Equipe Desenvolvedora

@@ -1,3 +1,5 @@
+> **Equipe desenvolvedora: Ana Laura Quinot, Gabriéli Barcelos, Heloisa Ribeiro e Julia Bohrer**
+
 ## Diagrama de Caso de Uso
 
 O Diagrama de Caso de Uso ilustra as interações entre os principais atores do sistema (UC e ADM) e as funcionalidades essenciais do Sebo Digital. Ele fornece uma visão de alto nível das capacidades do sistema e como cada perfil de usuário se relaciona com ele.
@@ -6,7 +8,7 @@ O Diagrama de Caso de Uso ilustra as interações entre os principais atores do 
 
 O diagrama a seguir detalha as funcionalidades principais.
 
-**[Visualizar Diagrama de Caso de Uso (Diagrams.net)](https://app.diagrams.net/#G1A28H4eRayLEfXBBpzptViXyQeGY7KVKp#%7B%22pageId%22%3A%22JPJFXq8B7DQwwHMcX30A%22%7D)**
+**[Visualizar Diagrama de Caso de Uso (Diagrams.net)](https://app.diagrams.net/#G1A28H4eRayLEfXBBpzptViXyQeGY7KVKp#%7B%22pageId%22%3A%22JPJFXq8B7DQwwHMcX30A%22%7D )**
 
 ![Imagem](/img/uso.png)
 
@@ -19,7 +21,7 @@ O Diagrama de Classes representa a estrutura estática do sistema, definindo as 
 
 ### 1. Visualização do Diagrama
 
-**[Visualizar Diagrama de Classes (Diagrams.net)](https://app.diagrams.net/#G1svEt0hIvyTrtOR8w_iOnVIWXmnOVGpTx#%7B%22pageId%22%3A%22LkfxLJV5w3fnrvNIu6Oe%22%7D)**
+**[Visualizar Diagrama de Classes (Diagrams.net)](https://app.diagrams.net/#G1svEt0hIvyTrtOR8w_iOnVIWXmnOVGpTx#%7B%22pageId%22%3A%22LkfxLJV5w3fnrvNIu6Oe%22%7D )**
 
 
 ![Imagem](/img/classe.png)

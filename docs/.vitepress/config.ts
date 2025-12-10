@@ -34,8 +34,9 @@ export default defineConfig({
           { text: 'Protótipo', link: '/prototipos' },
           { text: 'Custos', link: '/custos' },
           { text: 'Cronograma', link: '/cronograma' },
-          { text: 'Considerações finais', link: '/consideracoes' },
           { text: 'Riscos', link: '/riscos' },
+          { text: 'Considerações finais', link: '/consideracoes' },
+          
 
 
 
