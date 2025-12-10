@@ -8,7 +8,7 @@ O diagrama a seguir detalha as funcionalidades principais.
 
 **[Visualizar Diagrama de Caso de Uso (Diagrams.net)](https://app.diagrams.net/#G1A28H4eRayLEfXBBpzptViXyQeGY7KVKp#%7B%22pageId%22%3A%22JPJFXq8B7DQwwHMcX30A%22%7D)**
 
-![Imagem](docs/public/img/uso.png)
+![Imagem](/img/uso.png)
 
 
 ---
@@ -21,4 +21,5 @@ O Diagrama de Classes representa a estrutura estática do sistema, definindo as 
 
 **[Visualizar Diagrama de Classes (Diagrams.net)](https://app.diagrams.net/#G1svEt0hIvyTrtOR8w_iOnVIWXmnOVGpTx#%7B%22pageId%22%3A%22LkfxLJV5w3fnrvNIu6Oe%22%7D)**
 
-![Imagem](docs/public/img/classe.png)
+
+![Imagem](/img/classe.png)
